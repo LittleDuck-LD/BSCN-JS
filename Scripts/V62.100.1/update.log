@@ -1,0 +1,8 @@
+javascript/generated/game/config/activity-cfg.mjs (526fd9162c7634467e98d38fdffa5644d591230d) [更新]
+javascript/generated/game/module/ActivityModule.mjs (8b75b3685075645dfc085226c489f2d47744941d) [更新]
+javascript/generated/game/ui/DeliveryCardsPopup.mjs (a8313f79067cec5583cca02666b3b3cce27c8f4e) [更新]
+javascript/generated/game/ui/HeroScreenPopup.mjs (60686ad70bb4635809d843a846cbfd71a4346f1a) [新文件]
+javascript/generated/game/ui/activity/ActivityMilestoneContainer.mjs (3892103e93c25b02fe880918f2f98134593b302a) [更新]
+javascript/generated/game/ui/activity/CommonPurchasePopup.mjs (e5efeb607e4fe88fc3c8fb888becf6e203869189) [更新]
+javascript/generated/game/ui/activity/LotteryDrawContainer.mjs (f91cdf8ab6187ff6579049a3cbbc4b4f4bcd5561) [更新]
+javascript/generated/game/ui/cpp_popups.mjs (72cf2b508e6f004d92accf6a03c8de5f611f972a) [更新]

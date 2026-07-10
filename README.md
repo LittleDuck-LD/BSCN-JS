@@ -1,7 +1,7 @@
 # BSCN-JS
 荒野乱斗国服解密后的Javascript    
-如需更新，请创建issue
-China BrawlStars decrypted Javascript
+如需更新，请创建issue     
+China BrawlStars decrypted Javascript     
 pls create an issue if u need update
 
 # 备注
